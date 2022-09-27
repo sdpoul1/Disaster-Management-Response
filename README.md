@@ -90,4 +90,4 @@ I tried with couple of algorithms, with various parameters & also with custom es
 
 Also check out output.txt file for the full result.
 
-Screenshot (260)
+![image](https://user-images.githubusercontent.com/109017256/192577612-7e92c5d3-2011-403d-a0e3-ef8c06dec664.png)
