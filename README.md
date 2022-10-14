@@ -3,8 +3,7 @@
 Disaster_Response_project
 Web API that classifies disaster messages.
 
-![image](https://user-images.githubusercontent.com/109017256/192577353-e759a63f-8f67-405f-add2-526d115eb132.png)
-![image](https://user-images.githubusercontent.com/109017256/192577391-9792944f-7d70-4a97-8445-91b682b4e5f9.png)
+
 
 
 Project Motivation
@@ -90,4 +89,4 @@ I tried with couple of algorithms, with various parameters & also with custom es
 
 Also check out output.txt file for the full result.
 
-![image](https://user-images.githubusercontent.com/109017256/192577612-7e92c5d3-2011-403d-a0e3-ef8c06dec664.png)
+
